@@ -1,3 +1,6 @@
+cd your-repo
+python your_script.py
+
 #!/usr/bin/env python
 # coding: utf-8
 
